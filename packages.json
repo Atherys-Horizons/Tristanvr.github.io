@@ -1,0 +1,19 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Atherys Horizons (Full)",
+      "name" : "Atherys Horizons Full",
+      "version" : "2020-07-26-17-44-15",
+      "location" : "atherys-horizons-full.json",
+      "priority" : 2
+    },
+    {
+      "title" : "A'therys Horizons (Lite)",
+      "name" : "AtherysLite",
+      "version" : "2020-07-26-17-41-13",
+      "location" : "atheryslite.json",
+      "priority" : 1
+    }
+  ]
+}
