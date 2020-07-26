@@ -5,7 +5,7 @@ $packages = array();
 $packages[] = array(
     'name' => 'Atherys Horizons Full',
     'title' => 'Atherys Horizons (Full)',
-    'version' => '2020-07-26-17-44-15',
+    'version' => '2020-07-26-18-22-11',
     'priority' => 2,
     'location' => 'atherys-horizons-full.json',
 );
@@ -13,7 +13,7 @@ $packages[] = array(
 $packages[] = array(
     'name' => 'AtherysLite',
     'title' => 'A$0therys Horizons (Lite)',
-    'version' => '2020-07-26-17-41-13',
+    'version' => '2020-07-26-18-22-30',
     'priority' => 1,
     'location' => 'atheryslite.json',
 );
