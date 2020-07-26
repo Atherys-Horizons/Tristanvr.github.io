@@ -4,14 +4,14 @@
     {
       "title" : "Atherys Horizons (Full)",
       "name" : "Atherys Horizons Full",
-      "version" : "2020-07-26-20-47-22",
+      "version" : "2020-07-26-20-53-43",
       "location" : "atherys-horizons-full.json",
       "priority" : 2
     },
     {
       "title" : "A'therys Horizons (Lite)",
       "name" : "AtherysLite",
-      "version" : "2020-07-26-20-39-57",
+      "version" : "2020-07-26-20-54-07",
       "location" : "atheryslite.json",
       "priority" : 0
     }
